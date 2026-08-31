@@ -13,3 +13,4 @@
 ## Узнайте больше про сервис
 - [Значки в названий сервера, сами названия серверов, и оптимизации](https://github.com/thelittlepony/MewoVPN-Wiki/blob/main/LearnMore/ServerInfoAndOptimization.md)
 - [Особенности работы на разных операторах связи.](https://github.com/thelittlepony/MewoVPN-Wiki/blob/main/Quirks/ISP-RU.md)
+- [Что такое Автовыбор?](https://github.com/thelittlepony/MewoVPN-Wiki/blob/main/LearnMore/AutoSelectServer.md)

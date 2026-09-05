@@ -9,6 +9,7 @@
 - [Android](https://github.com/thelittlepony/MewoVPN-Wiki/blob/main/Guides/Setup/Android.md)
 - [iOS](https://github.com/thelittlepony/MewoVPN-Wiki/blob/main/Guides/Setup/iOS.md)
 - [[ПК] TUN режим в Happ](https://github.com/thelittlepony/MewoVPN-Wiki/blob/main/Quirks/Happ-Tun.md)
+- [[ПК] Telegram без TUN в Happ](https://github.com/thelittlepony/MewoVPN-Wiki/blob/main/Quirks/Happ-Telegram-Desktop-NoTUN.md)
 
 ## Узнайте больше про сервис
 - [Значки в названий сервера, сами названия серверов, и оптимизации](https://github.com/thelittlepony/MewoVPN-Wiki/blob/main/LearnMore/ServerInfoAndOptimization.md)

@@ -5,6 +5,10 @@
 # MewoVPN-Wiki
 Вики про mewo.vpn by tlp.
 
+> ⚠️ Внимание! Перед чтением гайда - обновите клиенты до последней версии.
+> 
+> В Happ на ПК: Настройки > О программе > Проверить обновления
+
 ## Настройка MewoVPN на...
 - [Android](https://github.com/thelittlepony/MewoVPN-Wiki/blob/main/Guides/Setup/Android.md)
 - [iOS](https://github.com/thelittlepony/MewoVPN-Wiki/blob/main/Guides/Setup/iOS.md)

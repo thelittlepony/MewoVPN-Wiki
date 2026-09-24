@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="MewoVPN Banner v1 ToS Black Space" src="https://github.com/user-attachments/assets/1a1e10f7-ba99-4983-b5f3-8e48a8dded5f" />
+
 # Условия использования для MewoVPN
 *Дату последнего обновления смотрите в коммите*
 

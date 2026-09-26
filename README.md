@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ReadmeAssets/mewo.vpn PROTO 7.png" alt="mewo.vpn Logo" width="150">
+  <img src="ReadmeAssets/mewo.vpn Logo Main.png" alt="mewo.vpn Logo" width="150">
 </p>
 
 # MewoVPN-Wiki
